@@ -1,8 +1,3 @@
-# github_4week
-## github practice
-### github make
-#### github push
-
 ## git status
 ## git add .
 ## git commit -m "etc"
@@ -10,3 +5,5 @@
 
 ### https://giftegwuenu.com/
 ### 참고 자료
+
+## 내용 작성 필요
