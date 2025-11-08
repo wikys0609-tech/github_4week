@@ -1,8 +1,8 @@
-# github에 올리는 과정
-## git status
-## git add .
-## git commit -m "etc"
-## git push origin main
+## github에 올리는 과정
+#### git status
+#### git add .
+#### git commit -m "etc"
+#### git push origin main
+#### git pull origin main
 
-### https://giftegwuenu.com/
-### 참고 자료
+#### 영상 확인 완료
